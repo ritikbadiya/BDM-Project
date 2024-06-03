@@ -1,0 +1,47 @@
+Analysis Process:
+we have raw data along with data collected from interview and brainstorming. We will use python and excel for data cleaning and regression process. we will interpolate data using python if required.
+
+step 01 : preprocessing 
+we will clean data using excel and remove null data points.
+
+step 02: variable selection and generation of new variable
+ from clean data we will select only few variables which are ralevant to solving our problem which are item, days, weight_in, weight_out, bags_count, charge_per_kg_per_bag, charge, we will than generate new variables as follows:
+              1. loss = weight_in - weight_out
+              2. loss_per_bag = loss/bags_count
+              3. log_days = log(days)
+              4. weighted_charging = weight_in * days * charge_per_kg_per_bag
+
+step 03: stastical analysis
+	test 01:
+		we wil calculate correlation coefficient between log_days and loss.
+        test 02:
+		we will calculate correlation coefficient between days and loss.
+
+
+step 04: after having enough evidence that loss in weight is related to days we will look into two aspects:
+	scenario 01: weighted_chargin
+		we will consider revenue at end considering weight_in instead of using weight_out.
+	scenario 02: intrest_charging
+		we will consider intrest on current chargin(charging when grain is out) from date when grain was kept inside.
+		
+step 05: after considering linear relation between days and loss we can consider linear relation in above two practice also. now we can find out the monthly intrest rate (I) which we might expect from weight_charging by finding I that best fits and gives revenue closest to weighted_charging. 
+
+step 06: steps for finding best I
+
+weighted_charging = current_charging + days * loss * charge_per_kg_per_bag
+intrest_charging = current_charging + (current_charging (days/30) * I )/100
+	we will now fit a linear curve from which we will try to find out I so that intrest_charging can define weighted_charging.
+
+on equating both sides:
+loss = days * weight_out * I/3000
+comparing to 
+y=mx form linear regressing we know:
+Σy = m Σx
+we can say that:
+Σloss = ((Σ(days * weight_out))/3000) * I
+which implies 
+I = Σloss /((Σ(days * weight_out))/3000)
+
+
+
+

@@ -1,0 +1,131 @@
+1. Project Initiation and Organization Identification (Month 1)
+	Define the project scope, objectives, and desired outcomes
+	Research and select a suitable organization (warehouse) for the project
+	Communication with owner
+	Gain an understanding of the organization's operations and challenges
+2. Research Planning and Data Collection (Month 2)
+	Identify key problem areas within the selected organisation
+	Create a detailed plan for data collection
+	Surveys and questionnaires fwith warehouse staff 
+	Collection of data, ensuring integrity
+3. Data Preprocessing and Cleaning (Month 3)
+	Validate and verify collected data to ensure accuracy
+	Clean and preprocess raw data, handling inconsistencies and missing values
+	Transform data into suitable formats for analysis
+	Extract important features 
+4. Exploratory Data Analysis (Month 4)
+	Visualize data through charts, graphs, and descriptive statistics
+	Identify patterns, trends, and potential correlations in the data
+	Conduct statistical analysis to uncover insights
+	Begin identifying potential problem areas based on data analysis
+5. Solution Generation and Design (Month 5)
+	Brainstorm and develop potential solutions for the problems
+	Collaborate with owner to refine solution ideas
+	Create detailed plans for implementing and testing each solution
+	Discussion possible solution with the owner
+
+
+Project: Warehouse Problem Identification and Resolution
+
+1. Project Initiation (Month 1)
+	Define scope
+	Choose organisatoin
+	Communicate owner
+	Understand operations
+2. Research & Data Collection (Month 2)
+	Identify issues
+	Plan data collection 
+	Surveys & questionnaires
+	Ensure integrity
+3. Data Processing (Month 3)
+	Validate data
+	Clean & prep
+	Format data
+	Extract features
+4. Exploratory Analysis (Month 4)
+	Visualize data
+	Find patterns
+	Statistical insights
+	Problem spotting
+5. Solution Generation (Month 5)
+	Brainstorm ideas
+	Refine with owner
+	Detailed plans
+	Discuss solutions
+
+
+
+
+
+
+
+
+
+Define Project Scope
+Choose Organization
+Communicate with Owner
+Understand Operations
+Identify Issues
+Conduct Surveys
+Ensure Data Integrity
+Validate Data
+Clean & Prep Data
+Format Data
+Extract Features
+Visualize Data
+Find Patterns
+Gain Statistical Insights
+Refine with Owner
+Create Detailed Plans
+Discuss Solutions
+
+
+145
+134
+123
+112
+102
+91
+80
+70
+59
+48
+38
+27
+16
+6
+-4
+-7
+-13
+These numbers represent the calculated days based on their corresponding dates from today's date. Positive values indicate future days, and negative values indicate past days.
+
+
+
+
+Of course, here are the task names along with the corresponding dates in the "dd-mm" format:
+
+Define Project Scope - 14-03
+Choose Organization - 25-03
+Communicate with Owner - 05-04
+Understand Operations - 16-04
+Identify Issues - 26-04
+Conduct Surveys - 07-05
+Ensure Data Integrity - 18-05
+Validate Data - 28-05
+Clean & Prep Data - 08-06
+Format Data - 19-06
+Extract Features - 29-06
+Visualize Data - 10-07
+Find Patterns - 21-07
+Gain Statistical Insights - 31-07
+Refine with Owner - 11-08
+Create Detailed Plans - 14-08
+Discuss Solutions - 20-08
+
+
+
+
+
+
+
+
